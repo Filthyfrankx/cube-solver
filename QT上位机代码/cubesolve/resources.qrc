@@ -1,0 +1,72 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qrc/1-1.jpg</file>
+        <file>qrc/1-2.jpg</file>
+        <file>qrc/2.jpg</file>
+        <file>qrc/2-1.jpg</file>
+        <file>qrc/2-2.jpg</file>
+        <file>qrc/2-3.jpg</file>
+        <file>qrc/3.jpg</file>
+        <file>qrc/3-1.jpg</file>
+        <file>qrc/3-2.jpg</file>
+        <file>qrc/3-3.jpg</file>
+        <file>qrc/4.jpg</file>
+        <file>qrc/4-1.jpg</file>
+        <file>qrc/4-2.jpg</file>
+        <file>qrc/4-3.jpg</file>
+        <file>qrc/4-4.jpg</file>
+        <file>qrc/4-5.jpg</file>
+        <file>qrc/4-6.jpg</file>
+        <file>qrc/4-10.png</file>
+        <file>qrc/4-11.png</file>
+        <file>qrc/5.jpg</file>
+        <file>qrc/5-1.jpg</file>
+        <file>qrc/6.jpg</file>
+        <file>qrc/6-1.jpg</file>
+        <file>qrc/6-2.jpg</file>
+        <file>qrc/6-3.jpg</file>
+        <file>qrc/7-1.jpg</file>
+        <file>qrc/7-2.jpg</file>
+        <file>qrc/7-3.jpg</file>
+        <file>qrc/7-4.jpg</file>
+        <file>qrc/7-5.jpg</file>
+        <file>qrc/7-6.jpg</file>
+        <file>qrc/7-7.jpg</file>
+        <file>qrc/7-8.jpg</file>
+        <file>qrc/11.png</file>
+        <file>qrc/jibenbuzhou1.jpg</file>
+        <file>qrc/jibenbuzhou2.jpg</file>
+        <file>qrc/jibenbuzhou3.jpg</file>
+        <file>qrc/jibenbuzhou4.jpg</file>
+        <file>qrc/jibenbuzhou5.jpg</file>
+        <file>qrc/jibenbuzhou6.jpg</file>
+        <file>qrc/jibenbuzhou7.jpg</file>
+        <file>qrc/jibenbuzhou8.jpg</file>
+        <file>qrc/jibenbuzhou9.jpg</file>
+        <file>qrc/jibenbuzhou10.jpg</file>
+        <file>qrc/jibenbuzhou11.jpg</file>
+        <file>qrc/jibenbuzhou12.jpg</file>
+        <file>qrc/jibenbuzhou13.jpg</file>
+        <file>qrc/jibenbuzhou14.jpg</file>
+        <file>qrc/jibenbuzhou15.jpg</file>
+        <file>qrc/jibenbuzhou16.jpg</file>
+        <file>qrc/jibenbuzhou17.jpg</file>
+        <file>qrc/jibenbuzhou18.jpg</file>
+        <file>qrc/jibenbuzhou19.jpg</file>
+        <file>qrc/jibenbuzhou20.jpg</file>
+        <file>qrc/1.jpg</file>
+        <file>qrc/1-3.jpg</file>
+        <file>qrc/1-4.jpg</file>
+        <file>qrc/1-5.JPG</file>
+        <file>qrc/OIP (1).jfif</file>
+        <file>qrc/OIP (2).jpg</file>
+        <file>qrc/OIP (3).jpg</file>
+        <file>qrc/OIP (4).jpg</file>
+        <file>qrc/OIP (5).jpg</file>
+        <file>qrc/11.JPG</file>
+        <file>qrc/6-4.JPG</file>
+        <file>qrc/OIP.jfif</file>
+        <file>qrc/background.jpg</file>
+        <file>qrc/bai.JPG</file>
+    </qresource>
+</RCC>

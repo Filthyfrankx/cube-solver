@@ -1,0 +1,30 @@
+#Generating source browse information for project TEST
+
+
+#Abbreviations
+cc = F$:\STM8$ IAR\common\bin\SourceIndexer.exe
+ll = F$:\STM8$ IAR\common\bin\PbdLink.exe
+bd = F$:\STM8$ IAR\common\bin\makeBrowseData.exe
+
+
+
+#Rules
+rule index
+  depfile = $out.dep
+  command = $cc -out=$out -f $in
+rule link
+  command = $ll -M $out $in
+rule browsedata
+  command = $bd $in -output  $out
+
+
+
+#Build steps
+build delay.pbi : index delay.xcl
+build main.pbi : index main.xcl
+build Process.pbi : index Process.xcl
+build tcs34725.pbi : index tcs34725.xcl
+build TEST.pbd : link delay.pbi main.pbi Process.pbi tcs34725.pbi
+build TEST.pbw : browsedata TEST.pbd
+
+

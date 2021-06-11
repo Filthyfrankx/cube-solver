@@ -1,0 +1,4 @@
+tcs34725.pbi: D:\ke\STM8\ CODE\ V7\STM8\ CODE\ V7\tcs34725.c \
+  D:\ke\STM8\ CODE\ V7\STM8\ CODE\ V7/tcs34725.h \
+  F:\STM8\ IAR\stm8\inc\iostm8s903k3.h F:\STM8\ IAR\stm8\inc/io_macros.h \
+  D:\ke\STM8\ CODE\ V7\STM8\ CODE\ V7/delay.h
